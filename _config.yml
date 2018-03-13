@@ -1,5 +1,5 @@
-title: Merlot theme
-description: Merlot is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: Team Caldwell
+description: A list of resources around the digital space.
+show_downloads: false
+google_analytics: UA-115627944-1
 theme: jekyll-theme-merlot

@@ -1,8 +1,9 @@
 ---
 layout: default
+published: true
 ---
 
-Neil Caldwell blog v4.
+Neil Caldwell blog v5. Now in serverless format, after wordpress, ghost, now on github pages using [jekyll](https://jekyllrb.com) and md. 
 
 # [](#header-1)Welcome
 
